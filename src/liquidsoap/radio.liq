@@ -4,5 +4,6 @@
 
 %include "metadata/main.liq"
 
+%include "audio/main.liq"
 
 # combined stream
