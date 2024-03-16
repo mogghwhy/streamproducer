@@ -1,2 +1,2 @@
 # main outpus module
-output(seq_audio)
+output.dummy(seq_audio)
