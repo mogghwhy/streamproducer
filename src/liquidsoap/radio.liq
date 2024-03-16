@@ -6,4 +6,6 @@
 
 %include "audio/main.liq"
 
+%include "outputs/main.liq"
+
 # combined stream
